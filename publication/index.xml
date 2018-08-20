@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on David Sathiaraj</title>
+    <link>https://ds153.github.io/publication/</link>
+    <description>Recent content in Publications on David Sathiaraj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://ds153.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting climate types for the Continental United States using unsupervised clustering techniques</title>
+      <link>https://ds153.github.io/publication/environmetrics/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ds153.github.io/publication/environmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven analysis on the effects of extreme weather elements on traffic volume in Atlanta, GA, USA</title>
+      <link>https://ds153.github.io/publication/wx_traffic_paper/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ds153.github.io/publication/wx_traffic_paper/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Improving Predictive Accuracy in Elections</title>
+      <link>https://ds153.github.io/publication/bigdata_elections/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://ds153.github.io/publication/bigdata_elections/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

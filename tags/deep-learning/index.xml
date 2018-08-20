@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on David Sathiaraj</title>
+    <link>https://ds153.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on David Sathiaraj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ds153.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ds153.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ds153.github.io/project/deep-learning/</guid>
+      <description>In the aftermath of the Baton Rouge flood event of 2016, the goal was to derive rainfall-river correlations and learning from the vast amounts of environmental sensors to develop fast predictions for river stage information. The work involves developing predictive algorithms that learn from historical river stage information and nearby rainfall events from river and rainfall sensors. The derived insights in the form of correlated scores is then used as training sets for deep learning algorithms to accurately predict river stage information.</description>
+    </item>
+    
+  </channel>
+</rss>
