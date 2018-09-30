@@ -44,6 +44,14 @@
     
     <url>
     
+      <loc>https://ds153.github.io/publication/icdmw2017/</loc>
+      <lastmod>2017-11-18T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://ds153.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
@@ -70,6 +78,15 @@
     
       <loc>https://ds153.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ds153.github.io/publication_types/1/</loc>
+      <lastmod>2017-11-18T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -148,7 +165,7 @@
     <url>
     
       <loc>https://ds153.github.io/publication_types/</loc>
-      <lastmod>2018-07-15T00:00:00-05:00</lastmod>
+      <lastmod>2017-11-18T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
