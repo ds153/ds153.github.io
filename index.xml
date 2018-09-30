@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Climate Informatics</title>
+      <link>https://ds153.github.io/project/climate-informatics/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ds153.github.io/project/climate-informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ds153.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ds153.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;In the aftermath of the Baton Rouge flood event of 2016, the goal was to derive rainfall-river correlations and learning from the vast amounts of environmental sensors to develop fast predictions for river stage information. The work involves developing predictive algorithms that learn from historical river stage information and nearby rainfall events from river and rainfall sensors.  The derived insights in the form of correlated scores is then used as training sets for deep learning algorithms to accurately predict river stage information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Predicting climate types for the Continental United States using unsupervised clustering techniques</title>
       <link>https://ds153.github.io/publication/environmetrics/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 -0500</pubDate>
@@ -36,25 +55,6 @@
       
       <guid>https://ds153.github.io/publication/bigdata_elections/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Climate Informatics</title>
-      <link>https://ds153.github.io/project/climate-informatics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://ds153.github.io/project/climate-informatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://ds153.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://ds153.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;In the aftermath of the Baton Rouge flood event of 2016, the goal was to derive rainfall-river correlations and learning from the vast amounts of environmental sensors to develop fast predictions for river stage information. The work involves developing predictive algorithms that learn from historical river stage information and nearby rainfall events from river and rainfall sensors.  The derived insights in the form of correlated scores is then used as training sets for deep learning algorithms to accurately predict river stage information.&lt;/p&gt;
 </description>
     </item>
     
