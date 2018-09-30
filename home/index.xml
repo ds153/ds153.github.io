@@ -50,6 +50,15 @@
     </item>
     
     <item>
+      <title>Recent Publications</title>
+      <link>https://ds153.github.io/home/publications/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ds153.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>https://ds153.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -83,8 +92,11 @@
       
       <guid>https://ds153.github.io/home/students/</guid>
       <description>Graduate Students and Group Alumni
-Joel James, MS Industrial Engineering (2012), Software Engineer, Flight Stats Inc. Xinbo Huang, MS Computer Science (2017) and MS Geography (2016), Currently - Data Scientist at SRCC, LSU. Thana-on Punkasem, MS Geography (2016), Currently - UI Designer, Microsoft.
-Tri Nguyen, MS Electrical Engineering (2017) - Software Engineer, Scratch. Eric Rohli, MS in Engineering Science (2018), Currently - Systems Engineer, SRCC, LSU.
+Joel James, MS Industrial Engineering (2012), Software Engineer, Flight Stats Inc.
+Xinbo Huang, MS Computer Science (2017) and MS Geography (2016), Currently - Data Scientist at SRCC, LSU.
+Thana-on Punkasem, MS Geography (2016), Currently - UI Designer, Microsoft.
+Tri Nguyen, MS Electrical Engineering (2017) - Software Engineer, Scratch.
+Eric Rohli, MS in Engineering Science (2018), Currently - Systems Engineer, SRCC, LSU.
 Dineep Thomas, MS Engineering Science (Spring 2019 (Expected))</description>
     </item>
     
@@ -94,15 +106,6 @@ Dineep Thomas, MS Engineering Science (Spring 2019 (Expected))</description>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ds153.github.io/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://ds153.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://ds153.github.io/home/publications/</guid>
       <description></description>
     </item>
     
